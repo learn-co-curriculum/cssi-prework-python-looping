@@ -2,13 +2,12 @@
 
 ## Objectives
 
-1. Understand the purpose of using loops
-2. Distinguish between the different loops available in python
-3. Use for, and while loops to iterate through a list.
+1. Explain the purpose of using loops
+2. Distinguish between the different loops available in Python
+3. Use for and while loops to iterate through a list.
 
 ##Loops
-Loops are a
- common tool is any programing language that let us repeat a section of code over and over, even if we only type it out once. You have already seen loops once in JavaScript, and now that you understand Python's list syntax, it's important to be able to iterate over each item in a list, or (as you'll learn in the next lesson) over other datatypes.
+Loops are a common tool is any programing language that lets us repeat a section of code over and over, even if we only type it out once. You have already seen loops once in JavaScript, and now that you understand Python's list syntax, it's important to be able to iterate over each item in a list, or (as you'll learn in the next lesson) over other datatypes.
 
 
 ###For Loops
